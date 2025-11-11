@@ -1,3 +1,8 @@
+---
+layout: default
+title: InputSwitch
+---
+
 # InputSwitch
 
 > **Tired of fighting with macOS input methods and keyboard shortcuts?**
